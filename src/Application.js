@@ -20,7 +20,7 @@ function Application() {
         Zoie had a secret. Well, not a <span class="font-semibold">secret</span> exactly, because everyone in her family could hear—and smell—it. Zoie farted all the time.
       </p>
       <div className='w-1/2 float-left m-4 border-4 border-purple-800'>
-          <img src='/zoey-2.webp'/>
+          <img src='/zoey-2.webp' alt='image of a the family pre fart'/>
         </div>
       <p class="text-lg text-gray-800 mb-4">
         Her little sister, <span class="text-pink-600 font-bold">Alaia</span>, hated it. "Zoie! You’re gross!"
@@ -59,7 +59,7 @@ function Application() {
       <p class="text-lg text-gray-800 mb-4 text-center">
         <span class="text-3xl text-yellow-500 font-extrabold">BOOOOOM!</span>
         <div className='w-1/2 float-right m-4 border-4 border-purple-800'>
-          <img src='/zoey-1.webp'/>
+          <img src='/zoey-1.webp' alt='image of a magical zoie fart'/>
         </div>
       </p>
 
