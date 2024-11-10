@@ -1,7 +1,4 @@
-import { Routes, Route } from 'react-router-dom';
 
-import { Navigation, NavigationLink } from './Navigation';
-import { Page } from './Page';
 
 function Application() {
   return (
